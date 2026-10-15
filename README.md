@@ -6,9 +6,9 @@
 
 <div align="center">
 
-# Hi there, I'm Raveendra Babu Matta 👋
+# Hi there, I'm Raveendra Babu  👋
 
-### Full Stack Python Developer | Backend Development | REST APIs
+### Full Stack Python Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Python+Developer;Building+Web+Applications;Developing+RESTful+APIs;Learning+and+Building+Every+Day" alt="Typing SVG" />
 
@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  📍 Anantapur, India
+  📍 Hyderabad, India
   <br/>
   🎓 B.Tech in Computer Science
   <br/>
@@ -41,10 +41,10 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Raveendra Babu Matta**, an aspiring Full Stack Python Developer passionate about building web applications, REST APIs, and database-driven systems.
+Hello! I'm **Raveendra Babu**, an aspiring Full Stack Python Developer passionate about building web applications, REST APIs, and database-driven systems.
 
 - 🐍 Focused on Python backend development.
-- ⚙️ Building applications with Django, Django REST Framework, and FastAPI.
+- ⚙️ Building applications with FastAPI, Django, Django REST Framework.
 - 🗄️ Interested in database design, integration, and management.
 - 🌐 Exploring frontend development with HTML, CSS, JavaScript, Bootstrap, and React.
 - 🤖 Interested in AI-powered applications and practical automation.
@@ -60,7 +60,6 @@ I believe in continuous learning, writing useful software, and improving my deve
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-Basics-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java basics" />
 </p>
 
 ### Backend Development
