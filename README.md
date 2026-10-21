@@ -1,231 +1,210 @@
- <!--
-  GitHub Profile README
-  Repository: raveendra-babu/raveendra-babu
-  Update project links and social URLs when available.
--->
-
+<!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-# Hi there, I'm Raveendra Babu  👋
+<h1>Hi there, I'm Raveendra Babu 👋</h1>
 
-### Full Stack Python Developer
+<h3>Full Stack Python Developer | AI Engineer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Python+Developer;Building+Web+Applications;Developing+RESTful+APIs;Learning+and+Building+Every+Day" alt="Typing SVG" />
-
-<p>
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
-  <img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
-
-<p>
-  📍 Hyderabad, India
-  <br/>
-  🎓 B.Tech in Computer Science
-  <br/>
-  💻 Passionate about building practical web applications
-</p>
-
-<p>
-  <a href="https://github.com/raveendra-babu">
-    <img src="https://img.shields.io/badge/GitHub-raveendra--babu-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="mailto:bobbyraveendra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hello! I'm **Raveendra Babu**, an aspiring Full Stack Python Developer passionate about building web applications, REST APIs, and database-driven systems.
-
-- 🐍 Focused on Python backend development.
-- ⚙️ Building applications with FastAPI, Django, Django REST Framework.
-- 🗄️ Interested in database design, integration, and management.
-- 🌐 Exploring frontend development with HTML, CSS, JavaScript, Bootstrap, and React.
-- 🤖 Interested in AI-powered applications and practical automation.
-- 🎯 Career goal: grow as a Full Stack Python Developer or Backend Developer.
-- 💡 Fun fact: I enjoy turning ideas into practical web applications.
-
-I believe in continuous learning, writing useful software, and improving my development skills through hands-on projects.
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs" />
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React_Basics-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 1. Human Resource Management System (HRMS)
-
-**A full-stack application for managing core HR operations.**
-
-- Employee and department management.
-- Authentication and role-based access for Admin, HR, and Employees.
-- Attendance tracking and leave request workflows.
-- Payroll records, allowances, and deductions.
-- Responsive interfaces and database operations.
-
-**Tech Stack:** Python, Django, MySQL, HTML, CSS, JavaScript, Bootstrap
-
-<!-- TODO: Replace # with your actual HRMS GitHub repository URL. -->
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](#)
-
-### 2. E-Commerce Web Application
-
-**A web application for product browsing, cart management, and order processing.**
-
-- User authentication and product management.
-- Product categories, pricing, and inventory management.
-- Shopping cart with quantity updates and price calculations.
-- Checkout, order creation, and order status management.
-- CRUD operations and MySQL database integration.
-
-**Tech Stack:** Python, FastAPI, MySQL, Jinja2, HTML, CSS, JavaScript, Bootstrap
-
-<!-- TODO: Replace # with your actual E-Commerce GitHub repository URL. -->
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](#)
-
-### 3. Weather Application
-
-**A web application exploring weather data, user accounts, and database-backed history.**
-
-- FastAPI application development.
-- HTML page rendering with Jinja2 templates.
-- SQLAlchemy models and database integration.
-- User registration and session-based application workflows.
-- Weather history management.
-
-**Tech Stack:** Python, FastAPI, Jinja2, SQLAlchemy, MySQL
-
-<!-- TODO: Replace # with your actual Weather Application repository URL. -->
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](#)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=raveendra-babu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Raveendra's GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendra-babu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<!-- Animated typing text: edit the lines= part to change the messages -->
+<a href="https://github.com/raveendra-babu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&height=45&lines=Developing+RESTful+APIs;Building+Full+Stack+Web+Apps;Exploring+GenAI%2C+RAG+%26+Agentic+AI" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=raveendra-babu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<!-- Skill badges -->
+![Python](https://img.shields.io/badge/PYTHON-DEVELOPER-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-BACKEND-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-APIS-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GenAI](https://img.shields.io/badge/GENAI-AI%20ENGINEER-8E2DE2?style=for-the-badge&logo=openai&logoColor=white)
+
+<br/>
+
+📍 Hyderabad, India<br/>
+🎓 B.Tech in Computer Science<br/>
+💻 Passionate about building practical web applications and AI-powered apps
+
+<br/>
+
+<!-- Contact badges -->
+<a href="https://github.com/raveendra-babu">
+  <img src="https://img.shields.io/badge/GITHUB-RAVEENDRA--BABU-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:bobbyraveendra@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/1raveendrababu/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=raveendra-babu&label=Profile%20Views&color=00C896&style=flat-square)
+![Followers](https://img.shields.io/github/followers/raveendra-babu?label=Followers&style=flat-square&logo=github)
 
 </div>
 
-<!-- Note: These cards use third-party services and depend on their availability. -->
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+## 👨‍💻 About Me
+
+<!-- Update this bio anytime -->
+Aspiring **Full Stack Python Developer** and **AI Engineer**, currently training at **Innomatics Research Labs**. I build backend-driven web apps with **Django** and **FastAPI**, and I'm now diving into **Generative AI, RAG, and Agentic AI**. I love turning ideas into real, deployable applications.
+
+- 📍 **Location:** Hyderabad, India
+- 🎓 **Education:** B.Tech in Computer Science, Siddhartha Institute of Engineering and Technology, Puttur
+- 💼 **Current Role:** Student at Innomatics Research Labs
+- 🎯 **Career Goals:** Looking for a **Full Stack Python Developer** or **GenAI / AI Engineer** role where I can build scalable backend systems and AI-powered applications using Python, Django, FastAPI, and modern LLM tooling. Eager to grow in a collaborative team and contribute to real-world products.
+
+**💡 Interests:** `GenAI` · `Agentic AI` · `Full Stack (React + Django)` · `FastAPI`
 
 ---
 
-## 🏆 Certifications & Achievements
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
-- **NPTEL** — The Joy of Computing using Python (2022)
-- **Infosys** — Python Foundation (2023)
-- **Udemy** — Full Stack Web Development (2024)
-- **AWS** — Cloud Foundations Skill Badges (2023)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java_(Basics)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React_(Basic)-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<!-- TODO: Replace each GitHub Link / Live Demo URL with your real repo and deployment links -->
+
+### 🌐 Full Stack
+
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **🏢 Human Resource Management System** | Full-stack HRMS with employee and department management, role-based access (Admin, HR, Employee), attendance and leave workflows, and payroll management. | `Python` `Django` `MySQL` `Bootstrap` `JavaScript` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
+| **🛒 E-Commerce Web Application** | FastAPI-powered store with authentication, product and inventory management, shopping cart, checkout, and order tracking. | `Python` `FastAPI` `MySQL` `Jinja2` `Bootstrap` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
+
+### 🤖 Generative AI
+
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **🍽️ Zomato Review Analyser** | Analyses restaurant reviews with LLMs to extract sentiment and key insights. | `Python` `LLMs` `Prompt Engineering` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
+| **📚 UPSC Study Assistant** | AI study companion that helps aspirants learn and revise UPSC topics. | `Python` `LangChain` `LLMs` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
+
+### 📄 RAG & Document AI
+
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **🚆 IRCTC Chatbot** | RAG-based chatbot that answers railway-related queries from documents. | `Python` `RAG` `Vector DB` `LangChain` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
+| **🏢 Company Knowledge Base Chatbot** *(Capstone)* | Chatbot that answers employee questions from internal company documents using retrieval-augmented generation. | `Python` `RAG` `Vector DB` `LangChain` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
+
+### 🧠 Agentic AI
+
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **💡 Startup Idea Validator** | Agent-based system that evaluates and validates startup ideas. | `Python` `Agentic AI` `LLMs` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raveendra-babu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendra-babu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+</div>
+
+### 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=raveendra-babu&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+## 🏆 Achievements & Certifications
+
+- 🥇 **NPTEL**: The Joy of Computing using Python (2022)
+- 🥈 **Infosys**: Python Foundation (2023)
+- ☁️ **AWS**: Cloud Foundations Skill Badges (2023)
+- 🌐 **Udemy**: Full Stack Web Development (2024)
+
+---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
 ## 📚 Currently Learning
 
-- **Advanced FastAPI** — API development, validation, and database integration.
-- **Django REST Framework** — Building RESTful backend services.
-- **React** — Developing interactive frontend applications.
-- **Docker** — Learning containerization and application deployment.
+- 🤖 **Generative AI**: LLMs, prompt engineering, semantic search, LangChain
+- 📄 **RAG & Vector Databases**: retrieval pipelines, evaluation (RAGAS), conversation memory
+- 🧠 **Agentic AI**: LangGraph, CrewAI, OpenAI Agents SDK, MCP and A2A protocols
+- 🚢 **Deployment**: FastAPI + Docker
 
 ---
 
 ## 🤝 Open to Collaborate On
 
-- Open-source projects.
-- Real-world full-stack web applications.
-- Python backend and REST API projects.
-- AI-powered tools and applications.
-- Projects that help me learn, contribute, and solve practical problems.
+- 🌍 Open-source projects
+- 💼 Freelance opportunities
+- 🔬 Research projects
+- 🚀 Startup ideas
 
 ---
 
+<!-- ===================== CONNECT ===================== -->
 ## 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:bobbyraveendra@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bobbyraveendra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
+<a href="https://www.linkedin.com/in/1raveendrababu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="https://github.com/raveendra-babu">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<!-- Add LinkedIn, portfolio, and other social links when available. -->
+<br/><br/>
 
-</div>
-
----
-
-<div align="center">
-
-### 💻 Building. Learning. Improving. Repeating.
-
-*Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
-
-<img src="https://komarev.com/ghpvc/?username=raveendra-babu&style=flat-square&color=blue" alt="Profile views" />
+⭐ *Thanks for visiting my profile! If you like my work, feel free to star a repo.* ⭐
 
 </div>
