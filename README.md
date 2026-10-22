@@ -122,7 +122,7 @@ Aspiring **Full Stack Python Developer** and **AI Engineer**, currently training
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
 | **🍽️ Zomato Review Analyser** | Analyses restaurant reviews with LLMs to extract sentiment and key insights. | `Python` `LLMs` `Prompt Engineering` | [GitHub](https://github.com/raveendra-babu/Zomato-Analyser)|
-| **📚 UPSC Study Assistant** | AI study companion that helps aspirants learn and revise UPSC topics. | `Python` `LangChain` `LLMs` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
+| **📚 UPSC Study Assistant** | AI study companion that helps aspirants learn and revise UPSC topics. | `Python` `LangChain` `LLMs` | [GitHub](https://github.com/raveendra-babu)|
 
 ### 📄 RAG & Document AI
 
