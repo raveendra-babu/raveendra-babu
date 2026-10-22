@@ -128,14 +128,14 @@ Aspiring **Full Stack Python Developer** and **AI Engineer**, currently training
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **🚆 IRCTC Chatbot** | RAG-based chatbot that answers railway-related queries from documents. | `Python` `RAG` `Vector DB` `LangChain` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
-| **🏢 Company Knowledge Base Chatbot** *(Capstone)* | Chatbot that answers employee questions from internal company documents using retrieval-augmented generation. | `Python` `RAG` `Vector DB` `LangChain` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
+| **🚆 IRCTC Chatbot** | RAG-based chatbot that answers railway-related queries from documents. | `Python` `RAG` `Vector DB` `LangChain` | [GitHub](https://github.com/raveendra-babu)  |
+| **🏢 Company Knowledge Base Chatbot** *(Capstone)* | Chatbot that answers employee questions from internal company documents using retrieval-augmented generation. | `Python` `RAG` `Vector DB` `LangChain` | [GitHub](https://github.com/raveendra-babu)  |
 
 ### 🧠 Agentic AI
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **💡 Startup Idea Validator** | Agent-based system that evaluates and validates startup ideas. | `Python` `Agentic AI` `LLMs` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
+| **💡 Startup Idea Validator** | Agent-based system that evaluates and validates startup ideas. | `Python` `Agentic AI` `LLMs` | [GitHub](https://github.com/raveendra-babu)  |
 
 ---
 
