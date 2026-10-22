@@ -114,8 +114,8 @@ Aspiring **Full Stack Python Developer** and **AI Engineer**, currently training
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **🏢 Human Resource Management System** | Full-stack HRMS with employee and department management, role-based access (Admin, HR, Employee), attendance and leave workflows, and payroll management. | `Python` `Django` `MySQL` `Bootstrap` `JavaScript` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
-| **🛒 E-Commerce Web Application** | FastAPI-powered store with authentication, product and inventory management, shopping cart, checkout, and order tracking. | `Python` `FastAPI` `MySQL` `Jinja2` `Bootstrap` | [GitHub](https://github.com/raveendra-babu) · [Live Demo](https://github.com/raveendra-babu) |
+| **🏢 Human Resource Management System** | Full-stack HRMS with employee and department management, role-based access (Admin, HR, Employee), attendance and leave workflows, and payroll management. | `Python` `Django` `MySQL`  | [GitHub](https://github.com/raveendra-babu/HRMS)  |
+| **🛒 E-Commerce Web Application** | FastAPI-powered store with authentication, product and inventory management, shopping cart, checkout, and order tracking. | `Python` `FastAPI` `MySQL` `Jinja2` `Css` `Html` | [GitHub](https://github.com/raveendra-babu/e-commerce)  |
 
 ### 🤖 Generative AI
 
